@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bibek Poudel, computer programming graduate from Georgian College.
 - 👀 I’m interested in web development and data analysis.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently mastering node.js
 - 💞️ I’m looking for junior software development roles.
 - 📫 Reach out to me at bibek.ca@outlook.com for collaboration.
 <!---
