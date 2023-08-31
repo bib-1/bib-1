@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Bibek Poudel, computer programming graduate from Georgian College.
-- 👀 I’m interested in web development and data analysis.
-- 🌱 I’m currently exploring the depth of Node.js and MERN stack
-- 💞️ I’m looking for junior software development roles.
+- 👋 Hi, I’m Bibek Poudel, a computer programming graduate from Georgian College.
+- 🌱 I’m currently working as a Web Developer at Whetham Website Solutions
 - 📫 Reach out to me at bibek.ca@outlook.com for collaboration.
 <!---
 bib-1/bib-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
